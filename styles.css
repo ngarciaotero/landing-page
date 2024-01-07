@@ -1,3 +1,15 @@
+body {
+  margin: 0;
+}
+
+.first {
+  padding: 1px 165px;
+}
+
+.fourth {
+  padding: 50px 165px;
+}
+
 .first,
 footer {
   background-color: #1f2937;
