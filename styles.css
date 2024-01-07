@@ -2,11 +2,10 @@
 
 body {
   margin: 0;
+  font-family: "Montserrat";
 }
 
-.first,
-.information-header {
-  font-family: "Montserrat";
+.first {
   padding: 1px 165px;
 }
 
