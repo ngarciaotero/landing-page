@@ -51,6 +51,10 @@ button {
   display: flex;
 }
 
+.call-to-action {
+  display: flex;
+}
+
 /* Images */
 .robot-img {
   width: 60%;
