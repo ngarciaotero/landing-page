@@ -16,6 +16,10 @@ header-logo {
   font-weight: bolder;
 }
 
+.header-logo {
+  font-size: 24px;
+}
+
 .nav {
   display: flex;
 }
