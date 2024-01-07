@@ -10,3 +10,9 @@
 .intro-content {
   display: flex;
 }
+
+/* Images */
+.robot-img {
+  width: 60%;
+  height: 70%;
+}
