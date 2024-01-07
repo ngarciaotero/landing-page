@@ -71,6 +71,8 @@ button {
 
 .intro-content {
   display: flex;
+  align-items: center;
+  gap: 50px;
 }
 
 .call-to-action {
