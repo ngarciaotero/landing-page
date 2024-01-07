@@ -7,8 +7,12 @@ footer {
   background-color: #e5e7eb;
 }
 
+.call-to-action,
 button {
   background-color: #3882f6;
+}
+
+button {
   border-radius: 10px;
   text-align: center;
   padding: 8px 38px;
