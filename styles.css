@@ -7,8 +7,21 @@ footer {
   background-color: #e5e7eb;
 }
 
+button {
+  background-color: #3882f6;
+  border-radius: 10px;
+  text-align: center;
+  padding: 8px 38px;
+  border: none;
+}
+
+.call-action-button {
+  border: 2px solid white;
+}
+
 .main-text,
-.header-logo {
+.header-logo,
+button {
   color: #f9faf8;
 }
 .main-text {
