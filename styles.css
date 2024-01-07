@@ -1,3 +1,8 @@
-body {
+/* body {
+  display: flex;
+  flex-direction: column;
+} */
+
+.nav {
   display: flex;
 }
