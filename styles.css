@@ -20,6 +20,12 @@ footer {
   font-size: 24px;
 }
 
+.secondary-text,
+.header-link {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .nav {
   display: flex;
 }
