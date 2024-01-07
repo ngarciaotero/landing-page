@@ -7,6 +7,14 @@ footer {
   background-color: #e5e7eb;
 }
 
+.intro-text {
+  color: #f9faf8;
+}
+.main-text {
+  font-size: 48px;
+  font-weight: bolder;
+}
+
 .nav {
   display: flex;
 }
