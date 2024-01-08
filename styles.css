@@ -69,6 +69,7 @@ button,
 .header-link {
   font-size: 18px;
   color: #e5e7eb;
+  margin-top: 0;
 }
 
 .information-header {
