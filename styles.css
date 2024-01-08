@@ -124,12 +124,16 @@ footer {
 
 .box {
   border: 4px solid #3882f6;
-  padding: 82px;
   border-radius: 10px;
 }
 
 .box-and-text {
   text-align: center;
+}
+
+.box-img {
+  height: 15em;
+  width: 15em;
 }
 
 .quote-text {
