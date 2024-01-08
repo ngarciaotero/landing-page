@@ -1,8 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap");
 
 body {
-  margin: 0;
   font-family: "Montserrat";
+}
+
+body,
+.main-text,
+.call-text {
+  margin: 0;
 }
 
 .first,
@@ -49,6 +54,7 @@ button,
 .fourth {
   color: #f9faf8;
 }
+
 .main-text {
   font-size: 48px;
   font-weight: bolder;
@@ -92,10 +98,6 @@ button,
   justify-content: space-between;
   padding: 60px 120px;
   border-radius: 10px;
-}
-
-.call-text {
-  margin: 0;
 }
 
 .second {
