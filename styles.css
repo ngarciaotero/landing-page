@@ -130,8 +130,13 @@ footer {
   border-radius: 10px;
 }
 
-/* Images */
-.robot-img {
-  width: 60%;
-  height: 70%;
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 42px;
 }
