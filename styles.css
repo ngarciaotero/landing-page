@@ -91,7 +91,13 @@ button,
 .intro-content {
   display: flex;
   align-items: center;
-  gap: 50px;
+  padding-top: 115px;
+  padding-bottom: 145px;
+}
+
+.intro-text {
+  flex-basis: 87em;
+  margin-right: 100px;
 }
 
 .call-to-action {
