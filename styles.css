@@ -5,12 +5,15 @@ body {
   font-family: "Montserrat";
 }
 
-.first {
-  padding: 1px 165px;
+.first,
+.fourth {
+  padding-left: 220px;
+  padding-right: 220px;
 }
 
 .fourth {
-  padding: 50px 165px;
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
 
 .first,
