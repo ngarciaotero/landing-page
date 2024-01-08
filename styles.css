@@ -45,7 +45,8 @@ button {
 
 .main-text,
 .header-logo,
-button {
+button,
+.fourth {
   color: #f9faf8;
 }
 .main-text {
