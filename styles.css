@@ -102,10 +102,6 @@ footer {
   padding-bottom: 58px;
 }
 
-.intro-text {
-  flex-basis: 35em;
-}
-
 .call-to-action {
   display: flex;
   justify-content: space-between;
