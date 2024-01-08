@@ -130,6 +130,10 @@ footer {
   border-radius: 10px;
 }
 
+.box-and-text {
+  text-align: center;
+}
+
 .quote-text {
   font-size: 36px;
   font-weight: 300;
