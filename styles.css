@@ -35,6 +35,8 @@ button {
   text-align: center;
   padding: 8px 38px;
   border: none;
+  font-weight: bold;
+  font-size: 17px;
 }
 
 .call-action-button {
