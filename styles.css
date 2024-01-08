@@ -115,12 +115,12 @@ button,
 
 .boxes {
   display: flex;
-  gap: 30px;
+  gap: 53px;
 }
 
 .box {
-  border: 3px solid #3882f6;
-  padding: 50px;
+  border: 4px solid #3882f6;
+  padding: 82px;
   border-radius: 10px;
 }
 
