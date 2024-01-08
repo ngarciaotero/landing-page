@@ -91,13 +91,12 @@ button,
 .intro-content {
   display: flex;
   align-items: center;
-  padding-top: 115px;
-  padding-bottom: 145px;
+  padding-top: 28px;
+  padding-bottom: 58px;
 }
 
 .intro-text {
-  flex-basis: 87em;
-  margin-right: 100px;
+  flex-basis: 35em;
 }
 
 .call-to-action {
