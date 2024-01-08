@@ -76,6 +76,10 @@ button,
 .information-header {
   font-size: 36px;
   font-weight: bolder;
+}
+
+.information-header,
+.quote-text {
   color: #1f2937;
 }
 
