@@ -89,6 +89,13 @@ button,
 
 .call-to-action {
   display: flex;
+  justify-content: space-between;
+  padding: 60px 120px;
+  border-radius: 10px;
+}
+
+.call-text {
+  margin: 0;
 }
 
 .second {
